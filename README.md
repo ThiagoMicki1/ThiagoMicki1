@@ -1,0 +1,25 @@
+<a href="https://github.com/ThiagoMicki1">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/dark_mobile.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/light_mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/dark_mode.svg">
+    <img alt="Thiago Micki's DevSecOps and cloud security profile" src="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/light_mode.svg">
+  </picture>
+</a>
+
+## Selected security projects
+
+| Project | Focus |
+| --- | --- |
+| [Secure AWS CI/CD Pipeline](https://github.com/ThiagoMicki1/secure-aws-cicd-pipeline) | Tests, security scanning, containers, Terraform, least privilege, and an optional AWS OIDC deployment path. |
+| [Cloud Security Findings Triage Dashboard](https://github.com/ThiagoMicki1/cloud-security-findings-triage-dashboard) | Normalizes six scanner formats and generates explainable remediation priorities. |
+| [AWS IAM Permission Auditor](https://github.com/ThiagoMicki1/aws-iam-permission-auditor) | Read-only IAM review for MFA, access keys, administrator access, and wildcard policy risk. |
+| [Incident Response Evidence Lab](https://github.com/ThiagoMicki1/incident-response-evidence-lab) | CloudTrail-style evidence correlation, incident timelines, ATT&CK context, and containment recommendations. |
+| [Terraform AWS Security Baseline](https://github.com/ThiagoMicki1/terraform-aws-security-baseline) | Validation-first AWS logging, threat detection, configuration history, IAM, and network controls. |
+| [Kubernetes Security Hardening Lab](https://github.com/ThiagoMicki1/kubernetes-security-hardening-lab) | Insecure-versus-hardened manifests with non-root execution, RBAC, and NetworkPolicy. |
+
+## Background
+
+- M.S. Cybersecurity, Fordham University - expected December 2026
+- B.S. Computer and Information Sciences, Dominican University New York - May 2025
+- Internship experience across DevSecOps engineering, software engineering, and data science
