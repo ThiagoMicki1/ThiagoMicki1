@@ -2,8 +2,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/dark_mobile.svg?v=9396a54">
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/light_mobile.svg?v=9396a54">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/dark_mode.svg?v=9396a54">
-    <img alt="Thiago Micki's DevSecOps and cloud security profile" src="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/light_mode.svg?v=9396a54">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/dark_profile.svg">
+    <img alt="Thiago Micki's DevSecOps and cloud security profile" src="https://raw.githubusercontent.com/ThiagoMicki1/ThiagoMicki1/main/light_profile.svg">
   </picture>
 </a>
 
