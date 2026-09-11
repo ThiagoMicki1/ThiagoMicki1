@@ -24,7 +24,7 @@
   <text x="24" y="491" class="role accent">DEVSECOPS / CLOUD SECURITY / AUTOMATION</text>
 
   <text x="370" y="45" class="section">thiago@micki <tspan class="muted">------------------------------------</tspan></text>
-  <text x="370" y="76"><tspan class="key">Role</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Cybersecurity M.S. candidate</tspan></text>
+  <text x="370" y="76"><tspan class="key">Role</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Cybersecurity M.S.</tspan></text>
   <text x="370" y="100"><tspan class="key">Focus</tspan><tspan class="muted"> ........... </tspan><tspan class="value">DevSecOps, cloud security, automation</tspan></text>
   <text x="370" y="124"><tspan class="key">Location</tspan><tspan class="muted"> ........ </tspan><tspan class="value">New York, NY</tspan></text>
 
@@ -37,7 +37,7 @@
   <text x="370" y="300"><tspan class="key">Delivery</tspan><tspan class="muted"> ........ </tspan><tspan class="value">GitLab CI/CD, GitHub Actions, Terraform</tspan></text>
   <text x="370" y="324"><tspan class="key">Containers</tspan><tspan class="muted"> ...... </tspan><tspan class="value">Docker, Kubernetes</tspan></text>
   <text x="370" y="348"><tspan class="key">Security</tspan><tspan class="muted"> ........ </tspan><tspan class="value">IAM, CloudTrail, SAST, secrets, IaC</tspan></text>
-  <text x="370" y="372"><tspan class="key">Human</tspan><tspan class="muted"> ........... </tspan><tspan class="value">English, Portuguese, Spanish</tspan></text>
+  <text x="370" y="372"><tspan class="key">Languages</tspan><tspan class="muted"> ....... </tspan><tspan class="value">English, Portuguese, Spanish</tspan></text>
 
   <text x="370" y="414" class="section">selected_work <tspan class="muted">----------------------------------</tspan></text>
   <text x="370" y="442"><tspan class="key">01</tspan> Secure AWS CI/CD        <tspan class="key">04</tspan> Incident Evidence</text>
