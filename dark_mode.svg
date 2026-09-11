@@ -40,7 +40,7 @@
   <text x="370" y="372"><tspan class="key">Languages</tspan><tspan class="muted"> ....... </tspan><tspan class="value">English, Portuguese, Spanish</tspan></text>
 
   <text x="370" y="414" class="section">selected_work <tspan class="muted">----------------------------------</tspan></text>
-  <text x="370" y="442"><tspan class="key">01</tspan> Secure AWS CI/CD        <tspan class="key">04</tspan> CloudTrail Detection</text>
-  <text x="370" y="466"><tspan class="key">02</tspan> Findings Triage         <tspan class="key">05</tspan> Terraform AWS Baseline</text>
-  <text x="370" y="490"><tspan class="key">03</tspan> IAM Auditor             <tspan class="key">06</tspan> Kubernetes Hardening</text>
+  <text x="370" y="442"><tspan class="key">01</tspan> Secure AWS CI/CD        <tspan class="key">04</tspan> Kubernetes Hardening</text>
+  <text x="370" y="466"><tspan class="key">02</tspan> CloudTrail Detection    <tspan class="key">05</tspan> Terraform AWS Baseline</text>
+  <text x="370" y="490"><tspan class="key">03</tspan> Docker Hardening        <tspan class="key">06</tspan> Findings Triage</text>
 </svg>
