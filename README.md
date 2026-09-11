@@ -12,11 +12,11 @@
 | Project | Focus |
 | --- | --- |
 | [Secure AWS CI/CD Pipeline](https://github.com/ThiagoMicki1/secure-aws-cicd-pipeline) | Tests, security scanning, containers, Terraform, least privilege, and an optional AWS OIDC deployment path. |
-| [Cloud Security Findings Triage Dashboard](https://github.com/ThiagoMicki1/cloud-security-findings-triage-dashboard) | Normalizes six scanner formats and generates explainable remediation priorities. |
-| [AWS IAM Permission Auditor](https://github.com/ThiagoMicki1/aws-iam-permission-auditor) | Read-only IAM review for MFA, access keys, administrator access, and wildcard policy risk. |
 | [CloudTrail Threat Detection Lab](https://github.com/ThiagoMicki1/cloudtrail-threat-detection-lab) | Modular AWS activity detections with severity filtering, MITRE ATT&CK context, and JSON reporting. |
-| [Terraform AWS Security Baseline](https://github.com/ThiagoMicki1/terraform-aws-security-baseline) | Validation-first AWS logging, threat detection, configuration history, IAM, and network controls. |
+| [Docker Container Hardening Lab](https://github.com/ThiagoMicki1/docker-container-hardening-lab) | Insecure-versus-hardened container builds with Trivy scanning, SBOM generation, validation scripts, and tests. |
 | [Kubernetes Security Hardening Lab](https://github.com/ThiagoMicki1/kubernetes-security-hardening-lab) | Insecure-versus-hardened manifests with non-root execution, RBAC, and NetworkPolicy. |
+| [Terraform AWS Security Baseline](https://github.com/ThiagoMicki1/terraform-aws-security-baseline) | Validation-first AWS logging, threat detection, configuration history, IAM, and network controls. |
+| [Cloud Security Findings Triage Dashboard](https://github.com/ThiagoMicki1/cloud-security-findings-triage-dashboard) | Normalizes six scanner formats and generates explainable remediation priorities. |
 
 ## Background
 
