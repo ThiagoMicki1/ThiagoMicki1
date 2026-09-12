@@ -3,17 +3,17 @@
   <title id="title">Thiago Micki - DevSecOps and cloud security profile</title>
   <desc id="description">Illustrated portrait of Thiago Micki beside a terminal-style summary of his cybersecurity education, experience, tools, languages, and selected projects.</desc>
   <style>
-    text { font-family: Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #24292f; }
-    .key { fill: #953800; }
-    .value { fill: #0a3069; }
-    .muted { fill: #6e7781; }
-    .accent { fill: #1a7f37; }
+    text { font-family: Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #c9d1d9; }
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #8b949e; }
+    .accent { fill: #3fb950; }
     .name { font-size: 25px; font-weight: 700; letter-spacing: 0; }
     .role { font-size: 13px; letter-spacing: 0; }
     .section { font-weight: 700; }
   </style>
-  <rect width="985" height="530" rx="12" fill="#f6f8fa"/>
-  <rect x="14" y="14" width="957" height="502" rx="9" fill="#ffffff" stroke="#d0d7de"/>
+  <rect width="985" height="530" rx="12" fill="#0d1117"/>
+  <rect x="14" y="14" width="957" height="502" rx="9" fill="#161b22" stroke="#30363d"/>
 
   <circle cx="35" cy="34" r="5" fill="#cf222e"/>
   <circle cx="53" cy="34" r="5" fill="#d29922"/>
@@ -23,7 +23,7 @@
   <text x="24" y="466" class="name">THIAGO MICKI</text>
   <text x="24" y="491" class="role accent">DEVSECOPS / CLOUD SECURITY / AUTOMATION</text>
 
-  <text x="370" y="45" class="section">thiago@micki <tspan class="muted">------------------------------------</tspan></text>
+  <text x="370" y="45" class="section">thiago@micki</text>
   <text x="370" y="76"><tspan class="key">Role</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Cybersecurity M.S.</tspan></text>
   <text x="370" y="100"><tspan class="key">Focus</tspan><tspan class="muted"> ........... </tspan><tspan class="value">DevSecOps, cloud security, automation</tspan></text>
   <text x="370" y="124"><tspan class="key">Location</tspan><tspan class="muted"> ........ </tspan><tspan class="value">New York, NY</tspan></text>
@@ -39,7 +39,7 @@
   <text x="370" y="348"><tspan class="key">Security</tspan><tspan class="muted"> ........ </tspan><tspan class="value">IAM, CloudTrail, SAST, secrets, IaC</tspan></text>
   <text x="370" y="372"><tspan class="key">Languages</tspan><tspan class="muted"> ....... </tspan><tspan class="value">English, Portuguese, Spanish</tspan></text>
 
-  <text x="370" y="414" class="section">selected_work <tspan class="muted">----------------------------------</tspan></text>
+  <text x="370" y="414" class="section">selected_work</text>
   <text x="370" y="442"><tspan class="key">01</tspan> Secure AWS CI/CD        <tspan class="key">04</tspan> Kubernetes Hardening</text>
   <text x="370" y="466"><tspan class="key">02</tspan> CloudTrail Detection    <tspan class="key">05</tspan> Terraform AWS Baseline</text>
   <text x="370" y="490"><tspan class="key">03</tspan> Docker Hardening        <tspan class="key">06</tspan> Findings Triage</text>
